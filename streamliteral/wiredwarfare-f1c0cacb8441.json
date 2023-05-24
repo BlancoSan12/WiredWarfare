@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wiredwarfare",
+  "private_key_id": "f1c0cacb844167eaff210c4b801b81d4905b1d31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCZN2DD2G+7Unqg\nUzQw8zuh90zLiqo7jKHSGSMKHRG3jlfS7v0XLgkVX+q+ItkcAJtfQImGYaEjtPyU\nE4YCYVoV6o68sCp08+w1x3SW3efeaH8RogAw6wMJ5iHmJR59Y3JEFiYaGMhH40w5\nHSIUm7IS0Rq0w+72Nj9kK8vlb+7rahPXhgf7s7AltnHP3n2GufaIIcd1ls/D3Iwg\nL9cWULm7xKU8o/bbg+yhpdh8n0g8ZbQ/8C2cs/T1rMtBwZ3vYpnqoDPJuqq5YRJK\nfQ1Wy1ShibYGPvfSbFmQyOr72EWW/Yf7FDo7VKEv5d6BwX1dFj0Aaa7rSS1z3mdF\ngbtnl2HtAgMBAAECggEAAkd63XGiOImRpey+8Bh6M16xVNjPT1Ci//QG8P79imW9\nbuJGamUcAPuli2Zgz5lptkkd5/LFWc7hhVa6AwiNisRrvakAOgT+kfk8MISvZEAD\n3eWzS4b/df2nVPFfP/3DT3nQih8CwbZYUK7bLi53v8RpDuCC9O+EfLoTD9VyWtb5\n+2wb1tM92ce6EmV5bCqsjT7TKKe07GAZdJyGXyIp1cL8doHaSvHdFhOEN2/stNFF\nvlxUq/izE3H9wYx3NRj606JCEuoN62AYKh2JP4lhrR5q1w+JgvbmVmokzxHMBMKN\nmmDJ0sB+Wnap6B65TZ25Hx1XiVI+tZiOLlKBBnTLKQKBgQDQMsdMwZbCAS+q4Csh\nENnc04Otvo5Z6D+AwBUV1H6kwq3m11tMZJQhCVBNZpz65lDu+9kJ7q/dPLbAydKK\nvsb/UZOyb+uXpjF0Y4x55AQOPZPaSBJEQiA7y/L+CI7NEQIBVFFLBhihNAocBD2o\nhCcWNLaHLKTa3BSa/M3W4ii26QKBgQC8ZO89v/eYxkJpgryqNvXnRCzoM2cwlD/k\neqcco7DJFVHxGTQ8lN/QKY+x6sxeVz8Yu8nXx01GtZhxCrSPcT4Ty6PgKjmkCon1\nPpzj9K5RLaVi6kF4dZo43TII50+/7pUhng8Y56T2kFi9wT/5FSWp00I/RNvwbWYH\nqSIADzp4ZQKBgE4MOxpTGCjyOORd1M04e/OEd0CSxtp9bhDd8QmV90Pcl0SKRveE\nXONlkmzxoreLz5tHXj2S9OqC8B+liP/qNL9R3YRu4GqhKrju+KJZEAwmmV6i1fYw\ns9S2yAjjPGUzkwTcjv0I9AK6d2+5R0P9BooUiLhzy/kft7nCO4fqkEjBAoGBAJN9\nBZs3LXSqShXmJyOu8WaDhhCnJXLvrPGHYErYj69tBICW9cEz3+BMmVV1d1eoQBpx\n8bv/KK1hv51H/0GJK0s+EuaMyCF3qreXtCX2SX3+GUtOD8FpeDpqWSCFTnb5JkFy\nR2l8+DWbng24PAgZmSnR3TxBAVrBmq4GqDqZsXHNAoGBAJx/a9sj4z81xjXk2K6s\nRSkwsjccTUqQLuCNEQ1VF0WLY6u2Hfz3A+pqGOb0HqBVB/zrSsDlty9lSXCGU35k\nLY2iPP11YCbzFFwKJeuLAAKGwSbSWtI/4AQa1pdoXIx15a0wcRlPZxip+26kw59t\nz014hEZzMtCWPYRRN3gY0O/9\n-----END PRIVATE KEY-----\n",
+  "client_email": "blancojean12@wiredwarfare.iam.gserviceaccount.com",
+  "client_id": "108682705624018393561",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/blancojean12%40wiredwarfare.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
